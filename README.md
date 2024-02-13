@@ -16,5 +16,5 @@ Click on encrypt
 # To decrypt
 copt the decrpted code and click on decrpty
 
-#Note 
+# Note 
 Created for slashmark Internship
